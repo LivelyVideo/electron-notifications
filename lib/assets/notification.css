@@ -1,13 +1,13 @@
 html, body {
   overflow: hidden;
   background: rgba(0, 0, 0, 0);
-  color: #fff;
+  color: #444;
   margin: 0;
   padding: 0;
 }
 
 a {
-  color: #fff;
+  color: #444;
 }
 
 #notification {
@@ -16,7 +16,7 @@ a {
   margin: 0;
   position: relative;
   font-family: Helvetica, Arial, sans-serif;
-  background-image: linear-gradient(rgba(120, 119, 119, 0.95), rgba(75, 74, 74, 0.95));
+  background: #fff;
   border: 1px solid rgba(255, 255, 255, 0.5);
   box-sizing: border-box;
   -webkit-app-region: drag;
